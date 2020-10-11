@@ -3,6 +3,7 @@
 # OpenWrt for Pi 4B
 
 [![Stars](https://img.shields.io/github/stars/iamNCJ/Openwrt-Pi4.svg?label=Stars&style=social)](https://github.com/iamNCJ/Openwrt-Pi4/stargazers) [![Forks](https://img.shields.io/github/forks/iamNCJ/Openwrt-Pi4.svg?label=Fork&style=social)](https://github.com/iamNCJ/Openwrt-Pi4/network/members)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FiamNCJ%2FOpenwrt-Pi4.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FiamNCJ%2FOpenwrt-Pi4?ref=badge_shield)
 
 # 使用方法
 
@@ -52,3 +53,6 @@ Go to [Release](https://github.com/iamNCJ/Openwrt-Pi4/releases) to download imag
 ## License
 
 [MIT](https://github.com/iamNCJ/Openwrt-Pi4/blob/master/LICENSE) © NCJ
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FiamNCJ%2FOpenwrt-Pi4.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FiamNCJ%2FOpenwrt-Pi4?ref=badge_large)
